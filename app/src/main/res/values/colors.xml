@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="grey">#bfbfbf</color>
+    <color name="backend">#fcf1f1</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="shaffaf">#a8000000</color>
+    <color name="primo">#8d8cdf</color>
+
+    <color name="myColor">#121e69</color>
+    <color name="soso">#ff0080</color>
+    <color name="noColor">#00ffffff</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="color_option_menu">#FF3990</color>
+    <color name="filter_label_normal">#8A8889</color>
+    <color name="filter_label_selected">#221F20</color>
+
+    <color name="text_color_bakgraunf">#7b2a0a4b</color>
+    <color name="massage">#e8f5dd</color>
+
+
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+    <color name="newColor">#3B88C3</color>
+    <color name="red">#ff0004</color>
+    <color name="hussein">#fdfa8209</color>
+
+</resources>

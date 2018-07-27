@@ -1,0 +1,279 @@
+<resources>
+    <string name="app_name">Panda</string>
+
+
+    <string name="Coment">Comment</string>
+
+    <string name="delet">هل انت متاكد من حزف المنشور !</string>
+    <string name="delet2">لا يمكنك استرجاع الصورة بعد حزفها</string>
+
+
+    <string name="HashUp"> تصويت </string>
+    <string name="HashDown"> الغاء التصويت </string>
+    <string name="HashDelet">حزف الهاش</string>
+
+
+    <string name="myAlphaNumeric">aشbسcيdبeلfاgتhنiمjكkطlدmجnحoخpهqعrغsفtقuثvصwضxذyزzظAوBةCىDلاEرFؤGءHئIJKLMNOPQRSTUVWXYZ0123456789_*+-/%</string>
+    <string name="namee">Aa	Аа	آ ا
+        aشbسcيdبeلfاgتhنiمjكkطlدmجnحoخpهqعrغsفtقuثvصwضxذyزzظAوBةCىDلاEرFؤGءHئIJKLMNOPQRSTUVWXYZ
+ƏəӘә - Бб - Вв - Гг - Дд - Ее - Ёё - Жж - Зз - Ии - Йй - Кк - Лл - Мм - Нн - Оо - Пп - Рр - Сс - Тт - Уу - Фф - Хх - Цц - Чч - Шш - Щщ - Ъъ - Ыы - Ьь - Ээ - Юю - ЯяBbБб -CcҸҹ -ÇçЧч -DdДд -EeЕе -FfФф -GgҜҝ -ĞğҒғ -HhҺһ -XxХх -IıЫы -İiИи -JjЖж -KkКк -QqГг -LlЛл -MmМм -NnНн -OoОо -ÖöӨө -PpПп -RrРр -SsСс -ŞşШш -TtТт -UuУу -ÜüҮү -VvВв -YyЈј -ZzЗзز ذ ظ ض</string>
+
+    <string name="myAlphaNum">qwertyuioplkjhgfdsazxcvbnm</string>
+
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="facebook_app_id">100168977528456</string>
+    <string name="fb_login_protocol_scheme">fb100168977528456</string>
+    <string name="title_activity_main2">UserProfile</string>
+
+
+    <string name="panda_Id">هذا التوقيع لا يعترف به ك توقيع رسمي للامضاء على الاوراق
+        هذا الوقيع فقط لاظهاره على الصور التي يقوم بنشرها يتم اعتباره مثل طابع بسيط
+        يمكنك تركه فارغا اذا كنت لا ترغب في كتابته
+        سوف يظهر التوقيع اسف كل صورة تقوم بنشره ك توقيع مميز لك في التطبيق
+        يرجى استخدام الاحرف الانكليزية الصغيرة فقط</string>
+
+    <string name="im_blocked">
+
+        لقد تم حظرك من التطبيق بسبب مخالفة سياسة الخصوصية لدة التطبيق , او تعديك لاحد القوانين الموضوعة للمستخدمين \n\n
+        القيود التي نضعها فقط تحافظ على استمرارية الموقع و عدم التلاعب بالتعليقات \n\n
+        شكرا لكم \n\n\n\n
+        يمكنك تقديم سبب المشكلة للدعم الفني لانه لا يهتم بالشروط الموضوعة من قبل المشرفين , يمكننا حل مشكلتك ان كانت سببها احد المشرفين او اخطاء في التطبيق , ارسل
+        لنا سبب الحظر لو اردتم ذلك وشكرا .
+
+    </string>
+
+    <string name="video_string_error">Error To Open</string>
+    <string name="video_loding">Wite Video Is Loding ... </string>
+
+    <!--  ###########################################  -->
+    <string name="publice">
+
+        قبولك لسياستنا تعني انك سوف توافق على احترام مبدأ و سياسية خصوصية التطبيق ,\n
+        يمكنك التعليق وابداء رائيك ولا قيود للاديان\n
+        نحن نقوم بالنشر بهدف النقاش فقط , ويمكن لتعليقاتك الخارجة عن حدود سياساتنا ان يتم حزفها "شتيمة - طعن صديق - شتم الكتب السماوية - اهانة احد الاصدقاء - "\n
+        يمكنك للجميع التعليق بدون قيود ولا يوجد اي سبب يدعو منك ان تقوم بتحديد دينك بشكل الافضل , كافة الاديان منزلة من السماء فلا داعي لتكزبيها ,\n\n
+        ان كنت ملحد يمكنك النقاش بحدود فقط , اي تجاوز قد يتم حظرك , يرجة النقر على موافق ان كنت موافق على شروط التطبيق \n\n
+        شكر خاص من فيق الدعم وفريق الاشراف والكمدراء لكم\n\n
+        اهلا وسهلا
+
+    </string>
+
+
+    <string name="comment">اكتب تعليقك هنا</string>
+    <string name="hallo">اهلا </string>
+    <string name="cancel">الغاء</string>
+    <string name="copy">نسخ</string>
+    <string name="Edit">تعديل</string>
+    <string name="Delete">حزف</string>
+    <string name="copy_to">تم النسخ الى الحافظة</string>
+    <string name="download_is_success">تم التحميل بنجاح</string>
+    <string name="searcheing"> جار البحث ...</string>
+    <string name="up">تم التصويت</string>
+    <string name="numm">مرة</string>
+
+    <!--        The Blockes Word    -->
+
+    <string name="a1">جنس</string>
+    <string name="a2">نيك</string>
+    <string name="a3">نيكني</string>
+    <string name="a4">كس</string>
+    <string name="a5">كسي</string>
+    <string name="a6">سكس</string>
+    <string name="a7">طيز</string>
+    <string name="a8">طيزي</string>
+    <string name="a9">خواتكم</string>
+    <string name="a10">اختك</string>
+    <string name="a11">اير</string>
+    <string name="a12">ايري</string>
+    <string name="a13">كسك</string>
+    <string name="a14">طيزك</string>
+    <!--        The Blockes Word    -->
+
+
+    <string name="blocked">تم تعطيل الزر   , اذا تم تكرار الكلمات تام تعطيله بشكل دائم</string>
+
+    <string name="kind">لا يسمح لك بالدخول . الدخول ممنوع لمن عمره اقل من 13 </string>
+
+    <string name="name_free">خانة الاسم الاول فارغة</string>
+    <string name="date_free">خانة التاريخ فارغة</string>
+    <string name="namme2_free">خانة الاسم الثاني فارغة</string>
+
+    <string name="public_no">سوف يتم حزف كافة البيانات التي قمت بانشائها وايقاف التشغيل على هذا الجهاز , هل انت متأكد ؟</string>
+    <string name="public_yes">نعم قم بحزف البيانات</string>
+    <string name="public_ok">لا , سوف اقبل الشروط</string>
+
+    <string name="email_fauler">يرجة تصحيح كلمة السر او البريد الاكتروني واعادة المحاولة</string>
+
+    <string name="email">ادخل البريد الاكتروني</string>
+    <string name="password">ادخل كلمة المرور</string>
+    <string name="password_equals">تأكد من تطابق كلمة المرور</string>
+
+
+    <string name="email_now">بريدك الاكتروني هو :</string>
+    <string name="password_now">ادخل كلمة السر :</string>
+    <string name="no_password">لا يوجد رمز دخول للمراسلة</string>
+    <string name="yes_password">رمز الدخول للمراسلة هي :</string>
+    <string name="view_password">يتم عرض رمز الدخول للزوار</string>
+    <string name="hide_password">يتم اخفاء كلمة المرور عن الزوار</string>
+    <string name="num4">كلمة المرور تتالف من اربع ارقام فقط .</string>
+    <string name="password_is_success">تم تعيين رمز دخول للمراسة</string>
+    <string name="delete_password"> لم تقم بتعيين رمز , يمكنك كتابة 0000 لحزف كلمة المرور نهائيا</string>
+    <string name="remail">تم ارسال بريد الكتروني , تحقق من بريدك</string>
+    <string name="enter_mail">اكتب البريد الجديد هنا</string>
+    <string name="ewnter_password">ادخل كلمة المرور</string>
+    <string name="email_progress">جار البحث عن الحساب</string>
+    <string name="email_replaed">تم تحديث البريد الاكتروني</string>
+    <string name="reMAil">يرجى مراجعة بريدك الاكتروني</string>
+    <string name="ewpass">يرجة التحقق من كلمة المرور</string>
+    <string name="passoerw">اعد كتابة كلمة السر</string>
+
+    <string name="massnger_was_deleted">تم حزف المحادثة</string>
+    <string name="remassage">لايمكنك التراجع عن هذا الخيار , هل انت متأكد ؟</string>
+    <string name="yes">موافق</string>
+    <string name="no">الغاء</string>
+
+
+    <string name="ERROR_PASSORD">كلمة السر غير صحيحة</string>
+
+    <string name="edit_profile">الملف الشخصي</string>
+    <string name="status">حالتي</string>
+
+    <string name="follow_up">الغاء المتابعة</string>
+
+
+    <string name="is_foloowd">تمت المتابعة</string>
+    <string name="follow">متابعة</string>
+    <string name="reProfliel">تحرير صورة البروفايل</string>
+
+    <string name="liked">اعجب</string>
+    <string name="liked_person">شخصا بهذا الحساب</string>
+
+    <string name="like">اعجبني</string>
+    <string name="liking">اعجاب</string>
+    <string name="liker">معجب</string>
+
+
+    <string name="pass_view">كلمة السر للدخول للمحادثة :</string>
+    <string name="noPass"> لا يوجد كلمة سر , يمكنك المراسلة</string>
+    <string name="hide_pass">قام المستخدم باخفاء كلمة المرور</string>
+
+    <string name="views">تمت زيارة هذه الصفحة</string>
+    <string name="views_numm">من المرات</string>
+
+    <string name="page_liker">تمت الاعجاب</string>
+    <string name="like_numm"> مرة على منشوراته</string>
+
+    <string name="profilee">هل ترغب في تعيين هذه الصورة !</string>
+    <string name="status_int">ما هي حالتك </string>
+    <string name="is_ok">تأكيد</string>
+
+    <string name="NO_MORE_LIKE">لا يمكنك الاعجاب مرتين او الغاء الاعجاب بالصفحات</string>
+
+
+    <string name="ferstname"> الاسم الاول </string>
+    <string name="lastname"> الاسم الثاني </string>
+    <string name="age"> العمر </string>
+
+    <string name="login"> تسجيل الدخول</string>
+    <string name="next"> التالي </string>
+
+    <string name="error_login"> هل يوجد مشكلة ؟</string>
+    <string name="new_accounte">انشاء حساب جديد</string>
+    <string name="noo">تخطي</string>
+    <string name="donAndNext">تحميل و متابعة</string>
+    <string name="reject">رفض</string>
+    <string name="okNext">قبول و متابعة</string>
+    <string name="send_pl">ارسال طلب استرجاع حساب</string>
+    <string name="bloked_users">الحساب معطل</string>
+
+    <string name="add_image">صورة جديدة</string>
+    <string name="add_video">مقطع فيديو</string>
+    <string name="add_hash">هاشتاغ</string>
+
+
+    <string name="is_kliked">لقد قام المستخدم بقفل المحادثة , اذا كنت تمتلك كلمة السر الخاص بالمستخدم يمكنك ادخاله هنا</string>
+    <string name="back">رجوع</string>
+    <string name="login_nummer">رمز المرور</string>
+
+
+    <string name="view_comment">عرض التعليقات</string>
+    <string name="chalend">منشورات</string>
+    <string name="hash_up">تصويت</string>
+
+    <string name="delete_massage">حزف المحادثة</string>
+    <string name="view_profile">الملف الشخصي</string>
+    <string name="send_massage">ارسال رسالة</string>
+
+
+    <string name="remassag">اكتب رسالة ...</string>
+
+    <string name="searche">  ابحث هنا  </string>
+
+    <string name="trite">  اكتب شيئا هنا ...   </string>
+
+
+    <string name="urll">يمكنك اضافة فيديو من اليوتيوب </string>
+
+    <string name="email_exwst">لم يتم العثور على هذا الحساب</string>
+    <string name="error_canedl">لم نتمكن من استكمال التسجيل , اعد المحاولة</string>
+
+
+    <string name="svaed">مقاطع محفوظة</string>
+    <string name="win">الارباح</string>
+
+
+    <string name="admin_infos">
+        لا يسمح لاي مدير في التطبيق بحزف اي تعليقات للمستخدمين الاخرين مهما كانت محتواه\n تم زرع روبوتات بداخل التطبيق لذلك لن يتمكن اي شخص من الشتم \n كما ان الروبتات تقوم تلقائيا بفرز المستخدمين وحظر الاشخاص اللذين يحاولون اتلاف المحتوى اتللقائيا\n
+        يمكنك فقط الابلاغ عن المستخدم والروبوت سوف يقوم تلقائيا بقراءة المحتوى الخطأ واذا كانت هناك اي تجاوز سوف يقوم الروبوت تلقائيا بحظره , \n
+        لا يسمح لك بحزف اي منشور او تعديله بعد الحصول على 50 تعليق عليه لذلك تاكد جيدا من المحتوى الذي تقوم بنشره\n
+
+        انت مسؤل عن المحتوى الذي تقوم بنشره , في حال قمت بنشر اي منشور خارج مواضيع التطبيق سوف يتم الغائك من الادارة تلقائيا
+        لا يوجد اي مدير مسؤل عن المسؤلين الاخرين لذلك لا تخف لانك غير مراقب من قبل غيرك . لاكن روبوتات التطبيق ذكية بما فيه الكفايا لحظر اي شخص يحاول استخدام التطبيق بشكل خاطأ
+        والابتعاد عن الهدف الاساسي للبرنامج , لا تقم بنشر محتوى اباحي حرصا على حمايتك وحماية محتوى هاتفك من الاختراق
+        في حال نشر اي صورة اباحية يتم زرع فيروسات في هاتفك لاتلاف كافة المحتويات فورا
+        انت الان مدير في التطبيق يمكنك البدأ في النشر والاشراف على منشورات المستخدمين فقط وشكرا لتحميلك التطبيق
+
+    </string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

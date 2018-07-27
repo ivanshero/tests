@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profail_home_boutton"
+            android:icon="@drawable/my_acconute"
+            android:title="الصفحة الشخصية"
+            />
+
+
+        <item
+            android:id="@+id/addIcon"
+            android:icon="@drawable/ic_add_black_24dp"
+            android:title="انشاء منشور جديد" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/send_massage_in_finger"
+            android:title="الرسائل" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/panda_o_logo"
+            android:title="باندا" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/masage_icons_home"
+            android:title="طلبات الرسائل" />
+    </group>
+
+    <item android:title="اعدادات">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/seeteeng"
+                android:title="اعدادات الحساب" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/seeteeng"
+                android:title="اعدادات التطبيق" />
+            <item
+                android:id="@+id/nav_ssend"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="مركز المساعدة" />
+            <item
+                android:id="@+id/nav_seend"
+                android:icon="@drawable/ic_menu_send"
+                android:title="الدعم الفني" />
+            <item
+                android:id="@+id/LogOut"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="تسجيل الخروج" />
+        </menu>
+    </item>
+
+</menu>

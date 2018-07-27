@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="450dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="@color/primo"
+    tools:context="ivi.com.eivi.Posts_Adapter_View.Image_Posts">
+
+
+    <RelativeLayout
+        android:layout_width="450dp"
+        android:layout_height="204dp"
+        android:layout_alignLeft="@+id/button17"
+        android:layout_alignStart="@+id/button17"
+        android:layout_gravity="center"
+        android:layout_marginLeft="-100dp"
+        android:layout_marginStart="-100dp">
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/LOG_Prog23"
+            android:layout_width="108dp"
+            android:layout_height="29dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="11dp"
+            app:indicatorName="BallPulseIndicator" />
+
+        <ImageButton
+            android:id="@+id/ADD_IMAGE_POSTS"
+            android:layout_width="326dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="10dp"
+            android:adjustViewBounds="true"
+            android:background="@color/primo"
+            android:cropToPadding="true"
+            android:onClick="ADD_IMAGE_ON_CLIKE"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:layout_width="74dp"
+            android:layout_height="69dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/imageaddposticon" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="150dp"
+        android:layout_height="37dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="14dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_sound"
+        android:onClick="ADD_IMAGE_BTN"
+        android:text="تحميل"
+        android:textAlignment="center"
+        android:visibility="visible" />
+
+
+    <TextView
+        android:textColor="@color/white"
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="169dp"
+        android:text="عفوا ! هل قمت باضافة صورة ؟"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="162dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="75dp"
+        android:autoLink="none|web|email|all"
+        android:background="@color/primo"
+        android:ems="10"
+        android:enabled="true"
+        android:gravity="top"
+        android:hint="اكتب شيئا"
+        android:inputType="textMultiLine"
+        android:isScrollContainer="true"
+        android:maxLength="1200"
+        android:maxLines="20"
+        android:scrollbars="vertical"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:soundEffectsEnabled="true"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="12dp" />
+
+
+</RelativeLayout>
